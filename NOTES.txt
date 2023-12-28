@@ -1,0 +1,15 @@
+node --version    v20.9.0
+
+npm init -y
+
+npm i express mongoose express-session ejs dotenv
+npm i -D nodemon
+
+---------------------------------------------------
+
+main.js
+
+
+place name
+description
+image
